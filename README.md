@@ -52,4 +52,4 @@ Contributing
 Feel free to fork this repository and suggest improvements via pull requests! 💡
 
 Contact
-📧 [Your Email] | 🔗 [LinkedIn Profile] | 🏢 [Portfolio/GitHub Profile]
+📧 satyareddy7429@gmail.com | 🔗 https://www.linkedin.com/in/satyareddyk/ | 🏢 https://github.com/SatyaCoder29
